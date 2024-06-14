@@ -9,6 +9,7 @@ Faker
 ffmpeg-python
 gitpython
 git+https://github.com/AsmSafone/SafoneAPI
+git+https://github.com/yt-dlp/yt-dlp.git
 gtts
 gpytranslate
 hachoir
